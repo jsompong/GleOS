@@ -1,0 +1,3 @@
+G:\leOS\bin\Debug\Traffic.exe
+G:\leOS\obj\Debug\Traffic.vb6projAssemblyReference.cache
+G:\leOS\obj\Debug\Traffic.vb6proj.CoreCompileInputs.cache
